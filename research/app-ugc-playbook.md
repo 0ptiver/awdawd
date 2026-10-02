@@ -83,3 +83,21 @@ The two ideas that survived had a NON-LLM MOAT: a verified dish database
 (cuisine calorie scanner) and a dose-based toxin triage workflow (pet poison).
 Rule for future screening: prefer ideas where the value is proprietary
 structured data or a specialized workflow, not an LLM reading a document.
+
+## Round 12: data-moat candidates (booking snipers, repair-vs-replace, tickets, renter building history)
+- Campsite/permit/reservation alerts: Campflare (free, 9.5M alerts, 10k+ campgrounds),
+  Campnab, Outdoorithm, PermitSnag, HutAlert; Recreation.gov now offers its own
+  alerts; restaurant tables: SnagRes, ReservationFinder. Dead.
+- Phone/laptop repair vs replace: many free calculators (PhoneRepairMore,
+  Cashkr, Underpriced, ItemValueChecker); Decluttr shut down June 2025. Dead.
+- Ticket price trackers: SeatHeat (free), TrackaLacker, Event Spy, TicketJam. Dead.
+- Renter building history: NYC covered by Rentlogic and JustFix (WhoOwnsWhat);
+  BUT Augrented already covers any US building from 50+ government databases for
+  free (violations, complaints, landlord records, risk forecast). City open data
+  (Socrata etc.) is free and scrapable, so no moat. Dead as a paid product.
+- Adjacent signal: a Sept 2026 study found 68% of 3,141 TikTok rental listings
+  across 16 cities showed scam warning signs. Rental-scam checker is thin
+  (Scamlord.ai) but willingness to pay is weak.
+
+Next idea source: ask the founders what audience they already reach (their
+Discord community, creator contacts) and build for them.
