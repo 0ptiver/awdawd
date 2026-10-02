@@ -125,3 +125,34 @@ because of bad luck. A believable idea probably sits OUTSIDE those categories.
 Conclusion: of eight rounds, one idea (grocery-cost plans for 50+ couples) has
 real need data and works with Meta targeting. Remaining unresearched needs:
 sleep, pets, pain/mobility, home maintenance, hobbies.
+
+## Round 8: more needs, then "weak incumbent" hunting
+
+Needs checked:
+- Cooking for one (36% of 50+ are single/divorced/widowed): One Dish Kitchen
+  (700+ single-serving recipes) exists. Survives only as a segment of the grocery
+  meal-plan idea (variant: "dinners for one").
+- Home maintenance: crowded. HomeZada ($99/yr), HomeBeacon (free), Homer, Dwellin;
+  Centriq shut down Jan 2025 (weak monetization).
+- Pets (52% skipped vet care due to cost; vet prices +60% in 10 years): telehealth
+  crowded (Pawp $19/mo, Vetster, AskVet $29/mo) AND the estimate-checker side is
+  taken: VetReceipt (free, 1,700+ bills), FareVet (30,000+ costs), FairVet,
+  PawCost and LowCostVet clinic finders.
+- Joint-friendly fitness 50+: crowded (SilverSneakers GO free, Mighty Health, FIS
+  OnDemand) plus Meta restricts health claims and Purchase optimization.
+- Sleep (CBT-I): crowded and Sleepio is free via employers; Stellar Sleep $60/mo.
+- Long-distance grandparenting: Caribu (Mattel, $10/mo), Kinzoo Together (free).
+- Parent driving: free AAA/Hartford guides; GoGoGrandparent for rides.
+
+Weak-incumbent hunting (paid categories with disliked incumbents):
+- Life Alert ($69.95/mo, 36-month contract, up to $200 to cancel) is surrounded
+  by no-contract rivals (MobileHelp $24.95, Bay Alarm $27.95, Medical Guardian).
+- Ancestry ($20-40/mo; auto-renew and cancel-fee complaints) has FamilySearch
+  (free) and MyHeritage.
+- McAfee/Norton: renewals of $100+ and auto-renew complaints, but free built-in
+  protection exists; "cancel and clean up" services already exist (Rocket Money,
+  Pine AI).
+
+Takeaway: obvious gaps are already filled within weeks by indie AI tools. Winners
+will come from distribution + execution in proven categories, not from finding
+empty ones. Next step proposed: automate this screening in ideas.py.
