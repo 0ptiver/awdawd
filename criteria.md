@@ -93,6 +93,17 @@ generic scam-protection apps for parents. Avoid ad angles Meta rejects:
 implying we know a person's medical condition, and financial-product,
 employment or housing offers that lose age targeting.
 
+## No-professional-gate rule (founder decision)
+
+We will NOT hire a lawyer, veterinarian, doctor, or other licensed professional to
+review a product. Do not suggest ideas where a wrong answer could injure a person
+or animal, or that give health, medical, veterinary, legal, tax, investment, or
+other regulated advice, or that depend on a licensed professional's sign-off
+(pet poison/toxin triage, symptom checkers, medication or dosing tools, legal
+letter generators, and similar). Prefer ideas where the worst realistic failure
+is a bad recipe, a wasted subscription, or a missed deal, and that two founders can
+launch alone. Pet poison triage was dropped for this reason (see research/pet-toxin-app.md).
+
 ## Moat rule (learned from ~50 screened ideas)
 
 Do NOT suggest "upload a document and AI checks it" (medical bills, vet bills,

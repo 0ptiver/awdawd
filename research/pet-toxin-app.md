@@ -36,3 +36,9 @@ Halloween, Nov-Dec holidays), pet-sitter sharing.
 ## Test now
 Halloween is about 4 weeks away and Nov-Dec is the peak. Run organic demo-style
 videos ("Halloween candy that can hurt your dog") to a free early-access page.
+
+## STATUS: DROPPED (founder decision)
+We will not engage a lawyer or veterinarian, and a safety-advice app needs both
+(veterinary-law exposure by state, Apple 1.4.1 medical-app scrutiny, content
+liability). Build prompts remain in /prompts for reference only
+(pet-toxin-app-build-prompt.md, pet-toxin-app-lean-prompt.md). Do not build.
