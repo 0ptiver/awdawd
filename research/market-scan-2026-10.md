@@ -72,3 +72,19 @@ Confirm the category in Ads Manager before spending.
    audience, but ChatGPT is the substitute.
 3. Medicaid long-term-care application prep for caregivers. Highest price and
    pain, moderate competition, highest liability (must not give legal advice).
+
+## Round 5: adult children dealing with a parent's life (consumer, not local business)
+
+| Niche | Verdict | Competitors found |
+|---|---|---|
+| Downsizing / clear-out inventory with AI value estimates | Crowded | SaveOr, Declutter AI, HomeZada, MovingBox |
+| Siblings dividing a parent's belongings | Crowded, small | SaveOr, Partage, FairSplit, Estimonia |
+| Assisted-living inspection report summaries | Crowded (free) | The Care Audit (50 states, free), a new national directory, state sites |
+| Aging-in-place photo safety check | Thin, unverified | HomeSafeAI (site blocked), online OT photo-review services |
+| Senior-living contract and fee decoder | Thin | No dedicated tool found. Incumbents are commission-paid (A Place for Mom, Caring.com, Seniorly, CarePatrol: 70-100% of first month's rent, up to $20k per placement). WaPo 2024 conflict-of-interest story |
+
+Pain: hidden costs often $1,000+/month, move-in fees $1.5-5k, care-level
+surcharges $500-2,500/month, 3-8% annual increases. Risks: families default to
+the free commission advisor, AI contract-reading accuracy, liability, and
+demand is unproven. Possible compounding asset: fee benchmarks built from
+uploaded contracts.
