@@ -24,6 +24,34 @@ apply immediately. When you like or dislike ideas it posted, add notes under
 - AI auto-completer: a subscription tool that completes repetitive tasks
   autonomously.
 
+## The core filter: "would an everyday person know how to do this with AI?"
+
+If someone can get the result by typing one prompt into ChatGPT or Gemini, it is
+NOT an idea. The value must be in work an everyday person can't easily set up:
+
+- **Messy inputs**: scanned PDFs, faxes, inconsistent invoices, ugly spreadsheets.
+- **Portals with no API**: government, licensing, carrier, or county sites an
+  agent has to log into and click through.
+- **Continuous monitoring**: watching filings, permits, dockets, prices, or
+  deadlines every day and acting on changes.
+- **Recovering or protecting money**: auditing bills, disputing errors,
+  preventing fines. Contingency pricing ("we take a % of what we recover") is
+  welcome because it makes the sale easy.
+- **Multi-step workflows across several systems**, wired together reliably.
+
+Every idea must name the specific hard part (the plumbing) that makes it
+defensible, not just "uses AI".
+
+## Saturation: already seen dozens of times, do NOT suggest
+
+Photo-to-quote, AI email/text writers, generic chatbots, AI receptionists and
+voice agents for general local businesses, content/caption/blog generators,
+resume tools, "ChatGPT wrapper for X", generic task-completing agents, AI
+website builders, and anything that is a single prompt away.
+
+If you are unsure whether a niche is crowded, say so in the `competition` field
+and name the incumbents you know of rather than assuming it is open.
+
 ## Avoid
 
 - Pure get-rich-quick, MLM, dropshipping-of-generic-products, crypto schemes.
@@ -32,4 +60,7 @@ apply immediately. When you like or dislike ideas it posted, add notes under
 
 ## Feedback (add notes here as we learn what you like)
 
-- (none yet)
+- Too simple: "writing emails" and similar don't need a product, Gemini does it.
+- Photo-to-quote is oversaturated (seen dozens of them). Never suggest it.
+- Wanted: automation that everyday people wouldn't know how to build with AI,
+  in less saturated markets. Think deeper than the obvious AI demo.
