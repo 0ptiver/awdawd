@@ -77,6 +77,18 @@ to file this?" problems where incumbents are only blogs and consultants, and the
 audience is a hobby-turned-business or a life event. Prefer these. Be honest
 when the audience is small, and say what would prove demand (a paid ad test).
 
+## Audience and wedge
+
+We can reach people aged 35-65 cheaply on Meta. Crowded markets are allowed if
+the idea names a concrete wedge: who exactly we serve, why they pick us over the
+top three, and how we reach them cheaply. Proven wedge pattern: a flat-fee
+"keep 100% of what you save" product undercutting 25-40% contingency firms.
+Do not suggest: property tax appeal services (Ownwell, AppealDesk,
+TaxFightBack), class action claim finders (Settlemate, Owed, Payout), or
+generic scam-protection apps for parents. Avoid ad angles Meta rejects:
+implying we know a person's medical condition, and financial-product,
+employment or housing offers that lose age targeting.
+
 ## Saturation: already seen dozens of times, do NOT suggest
 
 Photo-to-quote, AI email/text writers, generic chatbots, AI receptionists and

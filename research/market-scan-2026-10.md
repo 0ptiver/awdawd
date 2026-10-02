@@ -42,6 +42,26 @@ the product needs maintained state-by-state rule data, and (c) the incumbents
 are blogs and consultants, not software. A large audience plus easy to build
 plus zero competition basically does not exist: pick two.
 
+## Round 4: universal problems for a 35-65 Meta audience
+
+The user can reach 35-65 cheaply on Meta. Universal needs are the most crowded.
+
+| Problem | Verdict | Competitors found |
+|---|---|---|
+| Medical bill error review | Moderate | Bill Defense and similar contingency services, patient advocates, free scripts (Careroute). Flat-fee DIY gap |
+| Property tax appeal | Crowded, already undercut | Ownwell (25-35%), Five Stone, O'Connor, AppealDesk ($49), TaxFightBack ($79) |
+| Social Security claiming report | Moderate | AARP/CFPB free; MySSAgent, Maximize My Social Security, $97 advisor report |
+| Class action claim finders | Saturated | Settlemate, Owed, Payout, Collect, Sparrow; payouts only $20-200 |
+| Scam protection for aging parents | Moderate-crowded | Scammer Guardian, SeniorShield.AI, ElderVoice |
+
+Pattern to copy: flat-fee, keep-100% newcomers undercut 25-40% contingency firms
+in property tax. Medical bills may have the same gap.
+
+Meta policy: ads for financial products, employment and housing are limited to
+age 18-65+ with no narrowing (special ad categories), which would remove the
+35-65 advantage. Ads must not imply knowledge of a person's medical condition.
+Confirm the category in Ads Manager before spending.
+
 ## Shortlist to validate with a $50-100 Meta ad test each
 
 1. "Can I legally sell this?" checker for Instagram/Etsy makers (start with dog
