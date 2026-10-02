@@ -49,6 +49,14 @@ voice agents for general local businesses, content/caption/blog generators,
 resume tools, "ChatGPT wrapper for X", generic task-completing agents, AI
 website builders, and anything that is a single prompt away.
 
+Verified crowded by web research (Oct 2026), do NOT suggest in generic form:
+certificate-of-insurance tracking for contractors (PaperBoss $29/mo, COI File,
+Jones, etc.), insurance claim-denial appeals (Counterforce Health, Claimable,
+Overjet, Lassie), generic invoice OCR / AP sync for QuickBooks, raw new-LLC
+filing lead feeds (sold on Apify for about $0.01 per lead), and generic utility
+bill auditing (many contingency-fee firms). A narrow vertical or an uncovered
+region of one of these can still qualify, but must say what is different.
+
 If you are unsure whether a niche is crowded, say so in the `competition` field
 and name the incumbents you know of rather than assuming it is open.
 
