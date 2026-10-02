@@ -37,3 +37,26 @@ largely absent from Western databases; sinigang off by 20-30%, pho over by 49%.
 Regional rivals exist (Welling for SE Asia, Nutrimate/HealthifyMe for India).
 Moat would be a verified dish database for one diaspora. Meta health-claim limits
 apply. Test with organic demo-style videos and a fake-door page before building.
+
+## Round 10: "proven model x sub-market" and "photo-diagnose your hobby" (all crowded)
+- Citizenship test prep: 9+ apps incl. AI mock interviews (CiviQ, CivixApp,
+  CivicFlare, Citizenry, Citizen Now, PassTheCivics, CitizensPrep in 10 languages).
+- Workplace English for immigrants: ELSA, Loora, Talaera, Practice Me.
+- Hard-conversation roleplay: Vocal Image, YapWorld, Harco, Careertrainer,
+  VirtualSpeech, Yoodli.
+- Pet toxin scanners: ToxiPets (700k+ items), Pawtect, Petio.
+- Parent homework help: Khanmigo ($4/mo), Photomath, Socratic, Askie.
+- Sourdough photo diagnosis: Sourdough AI, Sourdo, Loaflo, SourdoughGuru, +2.
+- Espresso dial-in: Dial In, Burrfect, EspressoLog, Crema.
+- Lawn photo diagnosis: Lawn Guardian, Lawn Care AI, LawnAI, LawnLens ($4.99/mo).
+- Aquarium AI: Aquarium AI, AquaCare, AI Aquarium Doctor, AquaLens, Aquadayum.
+- Fake-review checkers: Fakespot (Mozilla) shut down 7/2025, ReviewMeta early 2026,
+  but 8+ free replacements (FakeFind, RateBud, ReviewAI, SureVett).
+- Rental-listing scam checker: thinnest so far (Scamlord.ai is the only dedicated
+  consumer tool found; FBI real estate fraud complaints 12,368 and about $275M in
+  2025). Weak: one-time use, free reverse-image-search guides, small share scammed.
+
+Lesson: about 40 concepts screened by hand; only the cuisine-specific calorie
+scanner and the grocery meal plan survived. Manual screening is too slow for
+brainstorming volume: automate it (generate many, search competitors, score, post
+survivors).
