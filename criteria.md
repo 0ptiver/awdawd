@@ -60,6 +60,13 @@ reconciliation (Restaurant365, Voosh, KoreFi), warranty-claim recovery for HVAC
 Warranty Management Group), food recall monitoring (FoodReady, RecallScout),
 zoning/council agenda monitoring (cityminutes.ai, ZoneWire, ZoningAlert), and
 child care subsidy billing (MyKidReports, Playground, ChildPilot, KinderTrack).
+Also verified crowded: independent pharmacy PBM
+reconciliation (Outcomes, Net-Rx, PioneerRx), towing lien/title paperwork
+(Autura TowLien, ADD123), and IEEPA tariff refund claims (time-limited wave
+with brokers, big tax firms and contingency platforms already in it).
+Contingency-fee recovery of overcharges is a validated model (workers' comp
+premium audit recovery firms charge 25-50% of what they recover) but check for
+licensing requirements before suggesting one.
 A narrow vertical or an uncovered
 region of one of these can still qualify, but must say what is different.
 
