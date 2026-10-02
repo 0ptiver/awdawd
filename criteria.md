@@ -93,6 +93,17 @@ generic scam-protection apps for parents. Avoid ad angles Meta rejects:
 implying we know a person's medical condition, and financial-product,
 employment or housing offers that lose age targeting.
 
+## Moat rule (learned from ~50 screened ideas)
+
+Do NOT suggest "upload a document and AI checks it" (medical bills, vet bills,
+contractor quotes, contracts, leases): every document type already has 10+
+clones, many free. Prefer ideas whose value is proprietary structured data or a
+specialized workflow that a general chatbot can't reproduce (for example a
+verified dish database, a dose-based toxin triage flow, or inspection records).
+Also check how STRONG competitors are (ratings count, downloads, funding), not
+just whether they exist: weak incumbents with high-stakes demand are the sweet
+spot. Seasonal timing and a panic moment help.
+
 ## Saturation: already seen dozens of times, do NOT suggest
 
 Photo-to-quote, AI email/text writers, generic chatbots, AI receptionists and

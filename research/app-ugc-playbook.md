@@ -60,3 +60,26 @@ Lesson: about 40 concepts screened by hand; only the cuisine-specific calorie
 scanner and the grocery meal plan survived. Manual screening is too slow for
 brainstorming volume: automate it (generate many, search competitors, score, post
 survivors).
+
+## Round 11: panic moments, seasonal tools, and "upload a document" ideas (all taken)
+- Car warning lights: FIXD (tells you if it is safe to keep driving), Carista,
+  OBD Fusion, OBDAssistant. Home mold/cracks: MoldIQ and many mold-ID apps,
+  fixRAgent. Food safety: USDA FoodKeeper is weak (3.2 stars) but people rarely
+  pay and the charts are free. Ticks: TickChecker (1.6K ratings, 4.7 stars),
+  TickScan, TickCheck, free university tools.
+- School lunch planners: Lunchin, Little Lunches, Bite Kit (free), Recipy, Mealime.
+- Youth coach assistants: MOJO (TeamSnap, free, 2.2K ratings), Coach One,
+  CoachFrank (free), ReadyCoach, CoachCore, Hobbit AI, YouCoach, Fieldhouse.
+- Return/price-drop trackers: Paribus shut down (Gmail restricted access to
+  receipts); Purchy is the one rival. Thanksgiving planners: free calculators and
+  printables; 54% of Americans plan to use AI for Thanksgiving.
+- Contractor quote checkers: 10+ (QuoteChecker.ai, Blueprint, EstimateHawk,
+  QuoteScore free, Is My Quote Fair $9.99, BidCompareAI, HVAC Quote Analyzer, ...).
+
+## General lesson
+"Upload a document and let AI check it" is a horizontal product with 10+ clones
+for every document type (medical bills, vet bills, contractor quotes, contracts).
+The two ideas that survived had a NON-LLM MOAT: a verified dish database
+(cuisine calorie scanner) and a dose-based toxin triage workflow (pet poison).
+Rule for future screening: prefer ideas where the value is proprietary
+structured data or a specialized workflow, not an LLM reading a document.
