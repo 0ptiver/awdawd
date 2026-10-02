@@ -83,7 +83,9 @@ We can reach people aged 35-65 cheaply on Meta. Crowded markets are allowed if
 the idea names a concrete wedge: who exactly we serve, why they pick us over the
 top three, and how we reach them cheaply. Proven wedge pattern: a flat-fee
 "keep 100% of what you save" product undercutting 25-40% contingency firms.
-Do not suggest: property tax appeal services (Ownwell, AppealDesk,
+Do not suggest: flat-fee AI medical bill checkers (OverBilled $29, Bill
+Bodyguard, IsMyBillWrong, mediloop, MedBillAI and others already exist; see
+research/medical-bill-checker.md), property tax appeal services (Ownwell, AppealDesk,
 TaxFightBack), class action claim finders (Settlemate, Owed, Payout), or
 generic scam-protection apps for parents. Avoid ad angles Meta rejects:
 implying we know a person's medical condition, and financial-product,

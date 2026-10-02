@@ -55,7 +55,9 @@ The user can reach 35-65 cheaply on Meta. Universal needs are the most crowded.
 | Scam protection for aging parents | Moderate-crowded | Scammer Guardian, SeniorShield.AI, ElderVoice |
 
 Pattern to copy: flat-fee, keep-100% newcomers undercut 25-40% contingency firms
-in property tax. Medical bills may have the same gap.
+in property tax. CORRECTION: I first guessed medical bills had the same gap.
+A deep dive found it does not: at least 6 AI flat-fee checkers already exist
+at $0-$129. See research/medical-bill-checker.md.
 
 Meta policy: ads for financial products, employment and housing are limited to
 age 18-65+ with no narrowing (special ad categories), which would remove the
