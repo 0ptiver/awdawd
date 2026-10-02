@@ -88,3 +88,24 @@ surcharges $500-2,500/month, 3-8% annual increases. Risks: families default to
 the free commission advisor, AI contract-reading accuracy, liability, and
 demand is unproven. Possible compounding asset: fee benchmarks built from
 uploaded contracts.
+
+## Round 6: deadline-driven decisions for 35-65 (ACA cliff, open enrollment)
+
+- ACA enhanced subsidies expired 12/31/2025; the 400% FPL cliff is back; Senate
+  bills to restore them failed. Over half of people who lost credits are 50-64;
+  AARP/Avalere: avg +$4,600/yr for high-premium 50-64 enrollees.
+- Real pain, but DEAD for a paid tool: at least 7 free calculators already exist
+  (ThunderHarbor, Coast Retirement, BridgeToFI, CliffEdge, SubsidyGuard,
+  QuantCalc, acacalc.com).
+- Meta: ACA/individual health insurance and insurance quotes/consultations fall
+  under the "Financial products and services" special ad category: age locked to
+  18-65+, no narrowing. Our 35-65 targeting advantage disappears.
+- Employer open enrollment: free tools from HSA banks; 86% of people stay with
+  their current plan and 74% find choosing confusing, i.e. they do not pay to decide.
+
+## Structural lesson (after six rounds)
+
+Where 35-65 consumers have the most pain (health, insurance, money, housing) is
+exactly where (a) Meta removes age targeting and (b) free AI and free calculators
+already exist. Paperwork-help ideas keep failing for these two reasons, not
+because of bad luck. A believable idea probably sits OUTSIDE those categories.
