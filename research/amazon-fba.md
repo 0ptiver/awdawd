@@ -30,3 +30,24 @@
 Avoid: kids' products (CPSC/CPC testing), anything ingestible or topical,
 supplements, cosmetics, batteries/electronics with safety claims, pet medical items.
 Prefer: durable home/kitchen/office/hobby products, $20-50 price, light, not seasonal.
+
+## $1,000 budget reality check (Oct 2026)
+- Sources: realistic private-label minimum is $2,000-5,000; $3,500 recommended;
+  competitive launches $8,000-15,000. Typical supplier MOQ 500 units; shipping
+  plus prep $300-1,500; fulfillment fees $3.65-6.92+/unit; ACOS 20-35%.
+- $1k only works with a very cheap, tiny, single-SKU product and a supplier that
+  accepts about 100-150 units. Zero margin for error.
+
+## Candidate niches to VALIDATE (hypotheses; no live Amazon data was available)
+1. Home organization sets (drawer dividers, cable management, under-sink)
+2. Air fryer accessories (watch food-contact compliance)
+3. Breed-specific non-ingestible pet accessories
+4. Pickleball/hobby accessories (grips, covers)
+5. Small WFH/desk accessories
+6. Demo-friendly small car/home gadgets (check design patents first)
+
+Validation scorecard: price >= $19.99; landed cost <= 25% of price; < 1 lb;
+top-10 listings average < 500 reviews; 3k+ monthly searches; visible weakness in
+leaders (photos, variations, copy); no patent hits (Google Patents, "patent
+pending" in listings); no kids/ingestible/cosmetic/battery/food-contact risk.
+Risk: Amazon removes listings on any IP complaint without judging merit.
