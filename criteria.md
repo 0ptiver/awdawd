@@ -67,6 +67,16 @@ Project, ReciScan, BookletAI), cottage-food label generators (many free), and
 gig-worker deactivation appeal letters (free guides; platforms now offer
 in-app appeals).
 
+Also verified crowded (see research/market-scan-2026-10.md): IEP prep for
+parents, homeschool transcripts, college aid appeal letters, western hunting
+draw help, musician royalty audits, pet international travel planners, creator
+contract scanners, and maternity-leave calculators.
+
+Where low saturation actually shows up: "am I allowed to sell this / do I have
+to file this?" problems where incumbents are only blogs and consultants, and the
+audience is a hobby-turned-business or a life event. Prefer these. Be honest
+when the audience is small, and say what would prove demand (a paid ad test).
+
 ## Saturation: already seen dozens of times, do NOT suggest
 
 Photo-to-quote, AI email/text writers, generic chatbots, AI receptionists and
