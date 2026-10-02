@@ -54,7 +54,13 @@ certificate-of-insurance tracking for contractors (PaperBoss $29/mo, COI File,
 Jones, etc.), insurance claim-denial appeals (Counterforce Health, Claimable,
 Overjet, Lassie), generic invoice OCR / AP sync for QuickBooks, raw new-LLC
 filing lead feeds (sold on Apify for about $0.01 per lead), and generic utility
-bill auditing (many contingency-fee firms). A narrow vertical or an uncovered
+bill auditing (many contingency-fee firms). Also verified crowded: restaurant delivery-payout
+reconciliation (Restaurant365, Voosh, KoreFi), warranty-claim recovery for HVAC
+(ClaimHound) and for RV/marine/powersports dealers (Simply Warranty, Centralized
+Warranty Management Group), food recall monitoring (FoodReady, RecallScout),
+zoning/council agenda monitoring (cityminutes.ai, ZoneWire, ZoningAlert), and
+child care subsidy billing (MyKidReports, Playground, ChildPilot, KinderTrack).
+A narrow vertical or an uncovered
 region of one of these can still qualify, but must say what is different.
 
 If you are unsure whether a niche is crowded, say so in the `competition` field
