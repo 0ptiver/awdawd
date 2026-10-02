@@ -109,3 +109,19 @@ Where 35-65 consumers have the most pain (health, insurance, money, housing) is
 exactly where (a) Meta removes age targeting and (b) free AI and free calculators
 already exist. Paperwork-help ideas keep failing for these two reasons, not
 because of bad luck. A believable idea probably sits OUTSIDE those categories.
+
+## Round 7: real needs for 35-65 (data first, then competitors)
+
+| Need (data) | Verdict | Why |
+|---|---|---|
+| Loneliness (40% of 45+ lonely) | Dead | Timeleft ($20/mo, ~3M users, funded), Meetup (60M, free), Bumble BFF, Wyzr (40+), Stitch (50+, ~200k members). Hey! VINA went out of business Feb 2026: local network effects are a money pit |
+| Travel (64% of 50+ expect to travel; 86% say top spending priority; AI deal use 8% to 16%) | Dead as flight deals | Going ($49/yr, 2M+ subscribers) and Thrifty Traveler dominate |
+| Rising electric bills (+7.3% in a year) | Dead | Free comparison sites (ElectricChoice, Power to Choose); only 13 states plus DC are deregulated |
+| AI that calls customer service for you | Dead for us | Pine AI: $25M Series A, ~20% of savings, $2-10 per task |
+| Teens and AI chatbots (parent worry) | Dead | Bark, Qustodio, OpenAI parental controls |
+| Newsletter for 50+ | Crowded | RetireHub: 13 newsletters, 440k subscribers, free and ad-supported |
+| Laid-off 50+ job search (64% report age discrimination; 34.5% of long-term unemployed) | Real need, bad channel | Meta "employment" ad category locks age targeting |
+
+Conclusion: of eight rounds, one idea (grocery-cost plans for 50+ couples) has
+real need data and works with Meta targeting. Remaining unresearched needs:
+sleep, pets, pain/mobility, home maintenance, hobbies.
