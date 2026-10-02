@@ -42,6 +42,31 @@ NOT an idea. The value must be in work an everyday person can't easily set up:
 Every idea must name the specific hard part (the plumbing) that makes it
 defensible, not just "uses AI".
 
+## Channel: ideas must be sellable with Instagram videos / Meta ads
+
+Think SMALL, not enterprise. Prefer consumers and solo sellers over B2B
+back-office problems that need sales calls. Every idea must have:
+
+- **A 15-second demo**: the before/after is visible on screen (a photo, a
+  document, a number, a letter) so a short video sells it without explanation.
+- **An emotional hook**: anger, fear of losing money, embarrassment, nostalgia,
+  or a "why didn't I know this" moment.
+- **A targetable audience** on Meta (a life event, hobby, job, or situation
+  people can be reached by) and a cheap price point: roughly $10-60 one-time or
+  under $15/month, so an impulse purchase from an ad is realistic.
+- **An ad hook line** and **a cheap validation test** (landing page + $50-100
+  of ads) in the idea write-up.
+
+Free competing tools kill pricing: if free generators exist, the idea needs a
+paid layer they lack (done-for-you action, evidence packaging, sending, filing).
+
+Verified crowded consumer markets (do NOT suggest generic versions): security
+deposit demand-letter generators (many free), home-inspection report decoders
+(Homegrade.ai, HomeReader.ai), handwritten-recipe-to-cookbook (Family Cookbook
+Project, ReciScan, BookletAI), cottage-food label generators (many free), and
+gig-worker deactivation appeal letters (free guides; platforms now offer
+in-app appeals).
+
 ## Saturation: already seen dozens of times, do NOT suggest
 
 Photo-to-quote, AI email/text writers, generic chatbots, AI receptionists and
